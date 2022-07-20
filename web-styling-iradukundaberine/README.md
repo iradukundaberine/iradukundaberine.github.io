@@ -4,7 +4,7 @@ Web Styling
 
 Registration Number:220009828
 <br>Name: IRADUKUNDA Berine
-<br> URL of the hosted site: 
+<br> URL of the hosted site: https://iradukundaberine.github.io/web-styling-iradukundaberine/index.html
 
 ## Instructions
 
